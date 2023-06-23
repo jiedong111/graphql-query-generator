@@ -46,7 +46,7 @@
     "typescript": "^3.8.3"
   },
   "peerDependencies": {
-    "graphql": "^14.0.2"
+    "graphql": "^16.7.1"
   },
   "jest": {
     "testURL": "http://localhost/",
